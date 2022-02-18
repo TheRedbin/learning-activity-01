@@ -100,7 +100,7 @@ nav {
 }
 
 .card:hover {
-    cursor: n-resize;
+    cursor: pointer;
     box-shadow: 0 8px 16px 0 rgba(63, 63, 63, 0.2);
 }
 
